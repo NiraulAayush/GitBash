@@ -1,0 +1,8 @@
+Hello World
+1. Basic input: echo "Hello World"
+
+2. Viewing File: cat my_file.txt
+
+3. Input Multi line: cat > new_file.txt 
+	cat takes STDIN (keyboard input) until Ctrl+D is pressend and then redirects into new_file.txt
+
